@@ -1,0 +1,13 @@
+date,amount,type,category,description
+2025-01-01,2500.00,IN,Salary,January salary
+2025-01-03,-800.00,OUT,Rent,House rent
+2025-01-04,-50.25,OUT,Food,Groceries
+2025-01-06,-25.00,OUT,Transport,Bus ticket
+2025-01-10,-120.00,OUT,Entertainment,Concert ticket
+2025-01-15,200.00,IN,Freelance,Small freelance job
+2025-02-01,2500.00,IN,Salary,February salary
+2025-02-03,-800.00,OUT,Rent,House rent
+2025-02-05,-65.40,OUT,Food,Groceries
+2025-02-09,-30.00,OUT,Transport,Train ticket
+2025-02-14,-90.00,OUT,Entertainment,Valentine’s dinner
+2025-02-20,150.00,IN,Freelance,Freelance job
