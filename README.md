@@ -9,12 +9,3 @@ and prints:
 - Expenses by category
 - Monthly income/expense/net summary
 
-## Tech
-
-- Python 3.x
-- Standard library only (`csv`, `datetime`, `collections`, `pathlib`)
-
-## How to run
-
-```bash
-python main.py
