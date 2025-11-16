@@ -41,7 +41,6 @@ def summarize(transactions):
     # expenses per category
     expense_by_category = defaultdict(float)
 
-    # monthly summary: { "YYYY-MM": {"income": x, "expense": y} }
     monthly = defaultdict(lambda: {"income": 0.0, "expense": 0.0})
 
     for tx in transactions:
